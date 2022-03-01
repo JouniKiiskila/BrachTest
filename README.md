@@ -1,2 +1,2 @@
-# BrachTest
-Esimerkkejä ohjelmakoodin kehityshaarojen käytöstä.
+# BranchTest
+Esimerkkejä ohjelmakoodin kehityshaarojen käytöstä
